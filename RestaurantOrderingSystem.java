@@ -38,6 +38,7 @@ public class RestaurantOrderingSystem extends JFrame {
 
     public RestaurantOrderingSystem() {
 
+        //Member 1 - Rasha
         setTitle("Restaurant Ordering System");
         setSize(700,600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
