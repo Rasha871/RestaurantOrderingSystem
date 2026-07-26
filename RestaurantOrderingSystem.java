@@ -146,6 +146,7 @@ public class RestaurantOrderingSystem extends JFrame {
 
 
 
+        //Kadheeja
         // ADD ORDER BUTTON
         addButton.addActionListener(e -> {
 
@@ -170,7 +171,7 @@ public class RestaurantOrderingSystem extends JFrame {
 
 
 
-        // CALCULATE BILL
+        // CALCULATE BILL - Kadheeja
 
         billButton.addActionListener(e -> {
 
