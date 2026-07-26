@@ -270,11 +270,7 @@ public class RestaurantOrderingSystem extends JFrame {
 
             JOptionPane.showMessageDialog(
             null,
-            "Food Sorted Successfully");
-
-        });
-
-
+            "Food Sorted 
 
         // CLEAR BUTTON
 
@@ -300,3 +296,4 @@ public class RestaurantOrderingSystem extends JFrame {
     }
 
 }
+
